@@ -21,7 +21,7 @@
 title: SasuNaru Hikes
 email: sasunaruhikes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-SasuNaru huh? What an interesting name. I wonder what's that about.
+  SasuNaru huh? What an interesting name. I wonder what it's all about.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "sasunaruhikes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
