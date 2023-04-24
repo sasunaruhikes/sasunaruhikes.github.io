@@ -21,14 +21,12 @@
 title: SasuNaru Hikes
 email: sasunaruhikes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog detailing the adventures of the SasuNaru hiking group.
+SasuNaru huh? What an interesting name. I wonder what's that about.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "sasunaruhikes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
