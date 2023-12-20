@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Giro dei forti Genovesi"
-date:   2022-09-10 00:00:00 +0200
+date:   2023-10-08 00:00:00 +0200
 categories: hiking
 permalink: /giro-dei-forti-genovesi
 ---
